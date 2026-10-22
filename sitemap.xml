@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc><lastmod>2026-10-22</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.example.com/treatments/general-checkup.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/teeth-cleaning.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/dental-implants.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/fillings.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/root-canal.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/extractions.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/crowns-bridges.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/dentures.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/braces-aligners.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/teeth-whitening.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/veneers-smile-design.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/gum-treatment.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/kids-dentistry.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.example.com/treatments/dental-emergency.html</loc><lastmod>2026-10-22</lastmod><priority>0.7</priority></url>
+</urlset>
