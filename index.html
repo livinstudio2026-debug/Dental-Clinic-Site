@@ -170,6 +170,25 @@
   </div>
 </section>
 
+<!-- CLINIC TOUR VIDEO -->
+<section class="sec sec--navy tour" id="tour" aria-labelledby="tour-h">
+  <div class="tour__glow" aria-hidden="true"></div>
+  <div class="wrap">
+    <div class="head reveal"><span class="label">Take a tour</span><h2 id="tour-h">Step inside <em>Dentara</em></h2><p>A quick look at the calm, bright space where your care happens.</p></div>
+    <div class="tour__frame reveal" id="tourframe">
+      <video class="tour__video" id="tourvideo" loop muted playsinline preload="none" poster="assets/images/home/video-poster.webp" aria-label="Video tour of the Dentara clinic">
+        <source src="assets/videos/clinic-loop.webm" type="video/webm">
+      </video>
+      <button class="tour__play" id="tourplay" type="button" aria-label="Play clinic tour video">
+        <span class="tour__ring" aria-hidden="true"></span><span class="tour__ring tour__ring--2" aria-hidden="true"></span>
+        <span class="tour__btn" aria-hidden="true"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.6v12.8a1 1 0 001.5.86l10.4-6.4a1 1 0 000-1.72L9.5 4.74A1 1 0 008 5.6z"/></svg></span>
+        <span class="tour__cap">Watch the clinic tour</span>
+      </button>
+    </div>
+    <ul class="tour__chips reveal" aria-label="Clinic highlights"><li>Bright, calm rooms</li><li>Modern digital equipment</li><li>Strict sterile care</li></ul>
+  </div>
+</section>
+
 <!-- GALLERY -->
 <section class="sec" id="clinic">
   <div class="wrap">
@@ -216,7 +235,7 @@
 </section>
 
 <!-- CTA BANNER -->
-<section class="cta">
+<section class="cta" id="ctaband">
   <img data-speed="0.08" loading="lazy" decoding="async" src="assets/images/home/cta-bg.webp" alt="">
   <div class="wrap reveal"><h2>Ready for a smile you’re proud of?</h2><p>Book a consultation today and take the first step.</p><a href="#contact" class="btn btn--light magnet">Book an Appointment</a></div>
 </section>
