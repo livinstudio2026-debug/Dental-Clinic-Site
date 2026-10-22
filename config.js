@@ -22,7 +22,16 @@
 
     // Form service endpoint (e.g. Formspree / Getform / your own API). Leave "" for demo mode —
     // the form then clearly says it is a demonstration and sends nothing.
-    formEndpoint: ""
+    formEndpoint: "",
+
+    // First-visit booking pop-up (built by common.js, shown on every page).
+    // It appears once per visitor, then stays quiet for `rememberDays`.
+    popup: {
+      enabled: true,       // set false to switch the pop-up off completely
+      delaySeconds: 8,     // wait this long before showing it (minimum 3)
+      rememberDays: 30,    // after it has been shown, don't show it again for this many days
+      exitIntent: true     // desktop only: also show it when the mouse leaves through the top of the page
+    }
   };
   if (typeof module === "object" && module.exports) module.exports = cfg;
   else root.DENTARA_CONFIG = cfg;
